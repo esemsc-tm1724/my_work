@@ -1,6 +1,6 @@
 
 # my_work
-Portfolio of the course-work I have produced during my masters. 
+## Portfolio containing some of of the course-work I have produced during my masters. 
 
 Deep Learning: In this code I worked with a dataset of corrupted brain scan images and trained a neural network to impute the missing data from the images. 
 
@@ -11,6 +11,7 @@ Data Science and Machine Learning: In part 1 of this coursework I was tasked wit
 Part 1:
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/esemsc-tm1724/my_work/blob/main/DSML/Q1_Answer.ipynb)
+
 Part 2:
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/esemsc-tm1724/my_work/blob/main/DSML/Q2_Answer.ipynb)
