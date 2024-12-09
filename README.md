@@ -15,3 +15,7 @@ Part 1:
 Part 2:
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/esemsc-tm1724/my_work/blob/main/DSML/Q2_Answer.ipynb)
+
+Computational Mathematics: This coursework saw me implementing various numerical methods in code. In part 2 I implemented and tested different methods of interpolation and numerical integration. Part 3 saw me implement code to solve an ODE numerically. 
+
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/esemsc-tm1724/my_work/blob/main/CompMaths/CM-Nov2024-assessment-questions.ipynb)
