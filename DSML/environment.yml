@@ -1,0 +1,21 @@
+name: dsml
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.8
+  - pandas
+  - scikit-learn
+  - numpy
+  - matplotlib
+  - ipywidgets
+  - seaborn
+  - jupyter
+  - xgboost
+  - imbalanced-learn
+  - scikit-optimize
+  - umap-learn
+  - shap
+  - pip:
+      - -r requirements.txt
+
